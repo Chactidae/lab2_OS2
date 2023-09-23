@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <!-- Func buttons -->
+
+    <color name="colorFuncButtonBG">#252525</color>
+    <color name="colorFuncButtonTxt">#CABFBF</color>
+
+    <!-- Num buttons -->
+
+    <color name="colorNumButtonBG">#CABFBF</color>
+    <color name="colorNumButtonTxt">#252525</color>
+
+</resources>
